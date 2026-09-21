@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ez70wt.cn/sitemap.xml
